@@ -1,0 +1,25 @@
+{
+	"labels": ["Temperature"],
+	"indices": [ {
+		"label": "1.05pm",
+		"data": [7]
+	}, {
+		"label": "1.10pm",
+		"data": [35]
+	}, {
+		"label": "1.15m",
+		"data": [15]
+	}, {
+		"label": "1.20pm",
+		"data": [20]
+	}, {
+		"label": "1.25pm",
+		"data": [23]
+	}, {
+		"label": "1.30pm",
+		"data": [26]
+	},{
+		"label": "1.35pm",
+		"data": [16]
+	}]
+}
